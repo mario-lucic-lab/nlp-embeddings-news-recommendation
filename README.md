@@ -93,8 +93,3 @@ Korpus je formiran spajanjem naslova i sažetka članka uz pretvorbu u mala slov
 * **Uloga dimenzionalnosti:** Najviši prosječni povrat za Word2Vec i FastText postignut je pri **$300\text{D}$**, dok su za BoW i LSA najbolji prosjeci ostvareni pri **$200\text{D}$**, odnosno **$100\text{D}$** (uz preklapanja intervala između pojedinih sjemena).
 * **Usporedba s kosinusnom sličnošću:** Pri $300\text{D}$ na poznatim korisnicima, izravno rangiranje kosinusnom sličnošću nad LSA prikazom ($R = 0,4203$) blago nadmašuje DQN s Word2Vec prikazom ($R = 0,4153 \pm 0,0048$), što pokazuje da konačna uspješnost uvelike ovisi i o samom mehanizmu rangiranja.
 
----
-
-## 👤 Autor
-
-**Mario Lucić**
